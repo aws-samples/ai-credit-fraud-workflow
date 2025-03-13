@@ -31,6 +31,7 @@ This repository demonstrates a GPU-accelerated fraud detection workflow using NV
 
 ## Setting Up EMR Clusters with NVIDIA GPUs
 To leverage NVIDIA RAPIDS for fraud detection, the EMR cluster must be configured with GPU-enabled instances and specific settings to optimize performance.
+You can download the source files for [customers](https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/FSI-NVIDIA-rapids/customers_parquet.tar.gz), [transactions](https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/FSI-NVIDIA-rapids/transactions_parquet.tar.gz), [terminals](https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/FSI-NVIDIA-rapids/terminals_parquet.tar.gz)
 
 ### GPU Cluster Configuration
 #### Instances:
